@@ -1,0 +1,16 @@
+{
+  "name": "adaptaedu-ia",
+  "version": "1.0.0",
+  "description": "Assistente de IA para adaptação de atividades pedagógicas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["educação", "IA", "adaptação", "professores"],
+  "author": "Maxivel Ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
